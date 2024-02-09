@@ -1,4 +1,4 @@
-coordinates = [[2,2], [3,3], [2,4], [2,6], [3,6], [2,7], [3,7],[7,4], [7,5], [6,3], [6,6]]
+coordinates = [[2,3], [3,3], [2,6], [3,6],[7,4], [7,5], [6,3], [6,4] , [6,5], [6,6]]
 def print_face(coordinates, size = 10):
     for i in range(size):
       row_text = ""
